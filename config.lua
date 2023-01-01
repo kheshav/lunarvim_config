@@ -10,8 +10,7 @@ an executable
 require("user.keymaps")
 require("user.options")
 require("user.plugins")
-
-
+require("user.lsp")
 
 -- generic LSP settings
 
